@@ -2,7 +2,7 @@
     {
         "nome": "Funcionario 1",
         "pausas": [
-            { "horario": "10:00" },
+            { "horario": "01:33" },
             { "horario": "12:00" },
             { "horario": "15:00" }
         ]
