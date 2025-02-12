@@ -2,7 +2,7 @@
   "colaboradores": [
     {
       "nome": "Lucas Monteiro",
-      "pausas": ["22:20", "10:20", "06:00"]
+      "pausas": ["21:00", "22:00", "01:30"]
     },
     {
       "nome": "Evandro Katsumata",
@@ -21,19 +21,19 @@
       "pausas": ["02:40", "04:40", "06:40"]
     },
     {
-      "nome": "Colaborador 6",
+      "nome": "Yuri Umaki",
       "pausas": ["02:50", "04:50", "06:50"]
     },
     {
-      "nome": "Colaborador 7",
+      "nome": "Hudson Miranda",
       "pausas": ["03:00", "05:00", "07:00"]
     },
     {
-      "nome": "Colaborador 8",
+      "nome": "Willian Santos",
       "pausas": ["03:10", "05:10", "07:10"]
     },
     {
-      "nome": "Colaborador 9",
+      "nome": "Rafael Rodrigues",
       "pausas": ["03:20", "05:20", "07:20"]
     }
   ]
